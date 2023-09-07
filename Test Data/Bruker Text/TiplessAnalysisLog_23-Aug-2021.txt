@@ -1,0 +1,13 @@
+Tipless AFM Data Analysis, 23-Aug-2021
+=================
+
+File 1 of 7: MDA-MB231_Dish2_Cell1.000 - NanoScope Analysis.txt
+The cell surface tension T [pN/um] = 330
+The contact point Z0 = 2.35e+03
+The adjusted R-squared R2 = 0.701
+
+File 2 of 7: MDA-MB231_Dish2_Cell1.001 - NanoScope Analysis.txt
+The cell surface tension T [pN/um] = 148
+The contact point Z0 = 2.28e+03
+The adjusted R-squared R2 = 0.586
+

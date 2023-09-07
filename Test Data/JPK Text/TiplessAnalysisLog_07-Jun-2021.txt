@@ -1,0 +1,8 @@
+Tipless AFM Data Analysis, 07-Jun-2021
+=================
+
+File 1 of 1: qi-data-d2c5a START HERE2.txt
+The cell surface tension T [pN/um] = 153
+The contact point Z0 = 1.78e+03
+The adjusted R-squared R2 = 0.903
+
