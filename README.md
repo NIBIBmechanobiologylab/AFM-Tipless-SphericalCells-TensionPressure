@@ -12,5 +12,11 @@ Specifically, this is a Matlab-based analysis of Bruker AFM data output files (B
 Matlab (supports R2020b)
   - Curve Fitting Toolbox
 
+### Installation
+
+### Getting started
+
+Run the GUI "TiplessGUI.mlapp" through Matlab and specify a candidate directory containing your Bruker files using the "Select Path" option. Furthermore, you can specify optional arguments for stiffness (nN/nm) (already stored in individual Bruker raw output file) and cell radius. Fitting regions of a curve can be adjusted by changing the start and end index values, which can be visualized using "Re-Plot". Once a region has been fitted, hit "Accept" to proceed to the next curve. After the batch of curves are completed, .xlsx and .txt summary files are generated.
+
 ### Citations
 [[1]](https://www.sciencedirect.com/science/article/pii/S0006349516302375?via%3Dihub#sec2)	Cartagena-Rivera, A. X., et al. (2016). "Actomyosin Cortical Mechanical Properties in Nonadherent Cells Determined by Atomic Force Microscopy." Biophys J 110(11): 2528-2539.
