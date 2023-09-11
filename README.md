@@ -1,4 +1,4 @@
-# "Actomyosin Cortical Mechanical Properties in Nonadherent Cells Determined by Atomic Force Microscopy"
+# "Actomyosin Cortical Mechanical Properties in Nonadherent Cells Determined by Atomic Force Microscopy" created by Dr. Cameron Parvini 2021
 
 ## **What is this analysis?**
 
